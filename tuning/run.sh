@@ -2,7 +2,7 @@
 
 set -e
 
-train_sizes=( 100 )
+train_sizes=( 100 1000 10000 )
 
 tasks=($(python3 -c '
 import yaml
