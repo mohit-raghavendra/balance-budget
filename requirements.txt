@@ -1,0 +1,10 @@
+wandb
+openai
+vllm
+pydantic
+absl-py
+nltk
+immutabledict
+lm-eval
+transformers
+datasets
