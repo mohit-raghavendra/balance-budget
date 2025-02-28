@@ -1,0 +1,9 @@
+@misc{raghavendra2025balancingbudgetunderstandingtradeoffs,
+      title={Balancing the Budget: Understanding Trade-offs Between Supervised and Preference-Based Finetuning}, 
+      author={Mohit Raghavendra and Junmo Kang and Alan Ritter},
+      year={2025},
+      eprint={2502.11284},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.11284}, 
+}

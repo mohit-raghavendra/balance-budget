@@ -1,21 +1,11 @@
-# Balancing the Budget
+## <b>Webpage template</b>
 
-Code for the paper Balancing the Budget: Understanding Trade-offs Between Supervised and
-Preference-Based Finetuning
+This webpage template was made for a [colorful ECCV paper](http://richzhang.github.io/colorization/). See how the webpage looks [here](https://richzhang.github.io/webpage-template).
 
+To use this template, clone the repo:
 
-Link - [https://arxiv.org/pdf/2502.11284](https://arxiv.org/pdf/2502.11284)
-
-## Data
-
-Process all the data 
-
-```bash
-bash tuning/data_processing.sh
+```
+git clone https://github.com/richzhang/webpage-template.git
 ```
 
-## Run
-
-1. Edit the ```train_sizes``` list in ```tuning/run.sh``` to add different #train examples to train the models.
-2. Run ```bash tuning/run.sh``` and select the task, sft-pft ratio and base model. 
-
+Copy the contents into a `gh-pages` branch of a GitHub repo. That will automatically make a webpage under address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
